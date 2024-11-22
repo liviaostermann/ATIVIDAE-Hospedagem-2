@@ -1,4 +1,4 @@
-const URL_API = "http://localhost:3000/professor/"
+const URL_API = "https://atividade-hospedagem-pl8j.onrender.com/professor/"
 
 const urlParams = new URLSearchParams(window.location.search);
 var id = urlParams.get("id")
